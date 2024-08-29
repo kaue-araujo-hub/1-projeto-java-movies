@@ -6,7 +6,7 @@ public class movies {
     String cat;
     boolean isClassic;
 
-    //Contrutor de um objeto
+    //Contrutor/inicializador de um objeto
     public movies (String name, int year_pub, String cat, boolean isClassic) {
         this.name = name;
         this.year_pub = year_pub;

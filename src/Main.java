@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.printf("Vamos falar de filme?");
 
-        //Objetos
+        //Invoca a classe, nomear a classe e criar objeto
         movies juventude = new movies("Juventude Transviada",1955, "Drama", true);
         movies milagre = new movies("À Espera de um Milagre", 1999, "Drama", false);
         movies sonho = new movies("Um Sonho de Liberdade", 1994, "Drama", true);
