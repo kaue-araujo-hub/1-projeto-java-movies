@@ -1,0 +1,1 @@
+Testando inserção de arquivo pelo GIT
