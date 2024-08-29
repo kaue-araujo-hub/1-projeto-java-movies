@@ -15,7 +15,7 @@ public class movies {
     }
 
 
-    public String toString(){
+    public String exibir(){
         return "Nome" + name + "Ano" + year_pub + "Categoria" + cat + "É um classico? " + isClassic;
     }
 

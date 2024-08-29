@@ -10,10 +10,10 @@ public class Main {
         movies perfume = new movies("Perfume de Mulher", 1992, "Drama", true);
         movies rocky = new movies("Rocky: Um Lutador", 1976, "Drama", true);
 
-        System.out.println(juventude.toString());
-        System.out.println(milagre.toString());
-        System.out.println(sonho.toString());
-        System.out.println(perfume.toString());
-        System.out.println(rocky.toString());
+        System.out.println(juventude.exibir());
+        System.out.println(milagre.exibir());
+        System.out.println(sonho.exibir());
+        System.out.println(perfume.exibir());
+        System.out.println(rocky.exibir());
     }
 }
